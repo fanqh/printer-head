@@ -1,4 +1,2 @@
-printer-head
-============
-
-printer head
+Thermal-Head-Printer
+====================
