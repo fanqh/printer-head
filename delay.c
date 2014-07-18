@@ -8,3 +8,8 @@ void delay(int z)
 		for(y=80;y>0;y--);	
 }
 
+void delays(int m)
+{
+//add something to help comprehend merge
+
+}
